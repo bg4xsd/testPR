@@ -1,0 +1,11 @@
+ipywidgets
+matplotlib
+numpy
+scip
+pandas
+tqdm
+jupyter
+notebook  
+jupyterlab 
+scikit-learn 
+statsmodels
